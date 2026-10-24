@@ -1,0 +1,26 @@
+name: Feature request
+description: Suggest an improvement to Logicly.
+labels: [enhancement]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Search existing issues before you submit a request. Use generic examples without customer data.
+  - type: textarea
+    id: problem
+    attributes:
+      label: What task is difficult or blocked?
+      description: Describe the workflow and the problem you need to solve.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: What would help?
+      description: Describe the result you need and any solution you have in mind.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Current workaround or alternatives

@@ -1,0 +1,21 @@
+name: Documentation correction
+description: Report an error or missing information in the README or user guide.
+labels: [documentation]
+body:
+  - type: input
+    id: page
+    attributes:
+      label: Page URL
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: What needs to change?
+      description: Explain the error or missing information. Include a proposed correction if you have one.
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Logicly version, if relevant

@@ -1,0 +1,53 @@
+name: Bug report
+description: Report a reproducible problem with Logicly.
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        For security problems, [report privately](https://github.com/zanotra/logicly-releases/security/advisories/new).
+        This issue is public. Use generic examples. Remove customer data, credentials and private network details from attachments.
+  - type: input
+    id: version
+    attributes:
+      label: Logicly version
+      description: Copy the version from the app or `logicly --version`. If installation failed, name the release you downloaded.
+      placeholder: vX.Y.Z
+    validations:
+      required: true
+  - type: input
+    id: platform
+    attributes:
+      label: Operating system and architecture
+      placeholder: Windows 11 x64, macOS arm64, or Ubuntu 24.04 x64
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps to reproduce
+      description: Include a small, generic example. For an installation problem, name the installer or command you used.
+      placeholder: |
+        1. Open ...
+        2. Select ...
+        3. Observe ...
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected result
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual result
+      description: Include the error text and relevant logs or screenshots after you remove private information.
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+      description: If relevant, include browser, Studio 5000, Logix Echo or controller firmware versions. Note whether an earlier Logicly release worked.

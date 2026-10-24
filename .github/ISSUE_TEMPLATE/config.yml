@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Report a security vulnerability privately
+    url: https://github.com/zanotra/logicly-releases/security/advisories/new
+    about: Do not disclose security problems in public issues. Use private vulnerability reporting.
+  - name: Ask a question
+    url: https://github.com/zanotra/logicly-releases/discussions
+    about: Get help with installation, setup and workflows.
+  - name: Read the user guide
+    url: https://github.com/zanotra/logicly-releases/wiki
+    about: Find installation instructions, examples and reference material.

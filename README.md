@@ -65,6 +65,12 @@ Studio and Echo operations use a Windows engine with the corresponding Rockwell 
 
 The [wiki](https://github.com/zanotra/logicly-releases/wiki) has the walkthroughs, downloadable examples and full command, test-spec and Python references.
 
+## Help and feedback
+
+[Get help](SUPPORT.md) · [Report a bug or request a feature](https://github.com/zanotra/logicly-releases/issues/new/choose) · [Contribute](CONTRIBUTING.md)
+
+For vulnerabilities, follow the [security policy](SECURITY.md) and report privately.
+
 ---
 
 [FSL-1.1-ALv2](LICENSE). Each release becomes available under Apache 2.0 after two years.
