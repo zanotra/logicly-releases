@@ -18,6 +18,7 @@
 <p align="center">
   <a href="#install">Download and install</a> ·
   <a href="#quick-start">Quick start</a> ·
+  <a href="https://github.com/zanotra/logicly-releases/wiki">User guide</a> ·
   <a href="#what-needs-what">Requirements</a> ·
   <a href="#which-release-files-do-i-need">Release files explained</a> ·
   <a href="https://github.com/zanotra/logicly-releases/issues">Feedback</a>
@@ -32,6 +33,9 @@ The agent edits files in its own editor or terminal. You review those edits as l
 
 Use the desktop app or a browser with the command-line tools. Both use the same background service, called the daemon.
 You can edit and validate an L5X export without Studio 5000 or a connected controller.
+
+The [user guide](https://github.com/zanotra/logicly-releases/wiki) includes a first-project walkthrough,
+downloadable examples, viewer instructions, and complete command, test-spec and Python references.
 
 ## How it works
 
