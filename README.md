@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="web/src/brand/logicly-logo.png" alt="Logicly" width="96" />
+  <img src="apps/workbench/web/src/brand/logicly-logo.png" alt="Logicly" width="96" />
 </p>
 
 <h1 align="center">Logicly</h1>
@@ -42,7 +42,7 @@ Ladder updates as your agent saves. Compare Git changes, watch live tags and lea
 See syntax, tag-reference and instruction errors beside the affected rung. Validation errors block exports, downloads and test runs.
 
 <p align="center">
-  <img src="docs/assets/findings.png" alt="Validation findings beside the affected rungs in the Conveyor example" width="720" />
+  <img src="docs/assets/findings.png" alt="A validation finding marked on its rung in the Conveyor example" width="720" />
 </p>
 
 ### Test the behavior
@@ -67,13 +67,13 @@ The [wiki](https://github.com/zanotra/logicly-releases/wiki) has the walkthrough
 
 ## Help and feedback
 
-[Get help](SUPPORT.md) · [Report a bug or request a feature](https://github.com/zanotra/logicly-releases/issues/new/choose) · [Contribute](CONTRIBUTING.md)
+[Get help](https://github.com/zanotra/logicly-releases/blob/main/SUPPORT.md) · [Report a bug or request a feature](https://github.com/zanotra/logicly-releases/issues/new/choose) · [Contribute](https://github.com/zanotra/logicly-releases/blob/main/CONTRIBUTING.md)
 
-For vulnerabilities, follow the [security policy](SECURITY.md) and report privately.
+For vulnerabilities, follow the [security policy](https://github.com/zanotra/logicly-releases/blob/main/SECURITY.md) and report privately.
 
 ---
 
-[FSL-1.1-ALv2](LICENSE). Each release becomes available under Apache 2.0 after two years.
+[Apache-2.0](LICENSE). Copyright 2026 Sebastian Zanotto.
 
 Logicly is an independent project, not affiliated with or endorsed by Rockwell Automation.
 Studio 5000 and FactoryTalk Logix Echo are trademarks of Rockwell Automation, Inc.
