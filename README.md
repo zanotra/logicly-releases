@@ -50,7 +50,7 @@ See syntax, tag-reference and instruction errors beside the affected rung. Valid
 Run repeatable tests against Logix Echo or a controller. Add Python plant models on an emulator and review recorded results.
 
 <p align="center">
-  <img src="docs/assets/runs.png" alt="The test launcher and history of runs, verifications and downloads" width="720" />
+  <img src="docs/assets/runs.png" alt="A test run open beside the Tests view, whose history holds runs, a verification and a download" width="720" />
 </p>
 
 ## Start with a project
