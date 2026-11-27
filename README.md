@@ -34,7 +34,7 @@ Bring a Logix project into your coding workflow. Logicly turns an L5X export int
 Ladder updates as your agent saves. Compare Git changes, watch live tags and leave a pinned note for your agent.
 
 <p align="center">
-  <img src="docs/assets/hero.png" alt="Live ladder values, watched tags and a pinned rung in the Conveyor example" width="720" />
+  <img src="docs/assets/hero.png" alt="A live ladder, watched tags and a pinned rung in the Conveyor example" width="720" />
 </p>
 
 ### Find mistakes early
